@@ -1,0 +1,27 @@
+{
+  "name": "playwright-selenium-grid-tests",
+  "version": "1.0.0",
+  "description": "Playwright tests using Selenium Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "SELENIUM_REMOTE_URL=http://localhost:4444 playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report",
+    "install-browsers": "playwright install",
+    "install-deps": "playwright install-deps"
+  },
+  "keywords": [
+    "playwright",
+    "selenium",
+    "selenium-grid",
+    "e2e",
+    "testing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  },
+  "packageManager": "pnpm@8.14.0+sha1.bb42032ff80dba5f9245bc1b03470d2fa0b7fb2f"
+}

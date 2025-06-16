@@ -1,0 +1,83 @@
+<testsuites id="" name="" tests="10" failures="0" skipped="0" errors="0" time="16.228693">
+<testsuite name="example.spec.js" timestamp="2025-06-16T14:48:55.827Z" hostname="" tests="10" failures="0" skipped="0" time="13.254" errors="0">
+<testcase name="Example.com E2E Tests with Selenium Grid › should display correct page title" classname="example.spec.js" time="1.276">
+<system-err>
+<![CDATA[  [30;1mpw:browser [0m<selenium> connecting to http://localhost:4444/ [30m+0ms[0m
+  [30;1mpw:browser [0m<selenium> connected to sessionId=823ee4a1f169d1f332827682a77ebd3a [30m+506ms[0m
+  [30;1mpw:browser [0m<selenium> using selenium v4 [30m+0ms[0m
+  [30;1mpw:browser [0m<selenium> retrieved endpoint ws://localhost:4444/session/823ee4a1f169d1f332827682a77ebd3a/se/cdp for sessionId=823ee4a1f169d1f332827682a77ebd3a [30m+1ms[0m
+  [30;1mpw:browser [0m<ws connecting> ws://localhost:4444/session/823ee4a1f169d1f332827682a77ebd3a/se/cdp [30m+23ms[0m
+  [30;1mpw:browser [0m<ws connected> ws://localhost:4444/session/823ee4a1f169d1f332827682a77ebd3a/se/cdp [30m+20ms[0m
+]]>
+</system-err>
+</testcase>
+<testcase name="Example.com E2E Tests with Selenium Grid › should display main heading text" classname="example.spec.js" time="1.347">
+<system-err>
+<![CDATA[  [30;1mpw:browser [0m<selenium> connecting to http://localhost:4444/ [30m+0ms[0m
+  [30;1mpw:browser [0m<selenium> connected to sessionId=faa6857c4aea56180625cff5e4f36353 [30m+11s[0m
+  [30;1mpw:browser [0m<selenium> using selenium v4 [30m+0ms[0m
+  [30;1mpw:browser [0m<selenium> retrieved endpoint ws://localhost:4444/session/faa6857c4aea56180625cff5e4f36353/se/cdp for sessionId=faa6857c4aea56180625cff5e4f36353 [30m+1ms[0m
+  [30;1mpw:browser [0m<ws connecting> ws://localhost:4444/session/faa6857c4aea56180625cff5e4f36353/se/cdp [30m+26ms[0m
+  [30;1mpw:browser [0m<ws connected> ws://localhost:4444/session/faa6857c4aea56180625cff5e4f36353/se/cdp [30m+10ms[0m
+]]>
+</system-err>
+</testcase>
+<testcase name="Example.com E2E Tests with Selenium Grid › should display domain information paragraph" classname="example.spec.js" time="1.284">
+<system-err>
+<![CDATA[  [30;1mpw:browser [0m<selenium> connecting to http://localhost:4444/ [30m+0ms[0m
+  [30;1mpw:browser [0m<selenium> connected to sessionId=ac0e8c0e44111a0264451f398e85b6f2 [30m+14s[0m
+  [30;1mpw:browser [0m<selenium> using selenium v4 [30m+1ms[0m
+  [30;1mpw:browser [0m<selenium> retrieved endpoint ws://localhost:4444/session/ac0e8c0e44111a0264451f398e85b6f2/se/cdp for sessionId=ac0e8c0e44111a0264451f398e85b6f2 [30m+0ms[0m
+  [30;1mpw:browser [0m<ws connecting> ws://localhost:4444/session/ac0e8c0e44111a0264451f398e85b6f2/se/cdp [30m+29ms[0m
+  [30;1mpw:browser [0m<ws connected> ws://localhost:4444/session/ac0e8c0e44111a0264451f398e85b6f2/se/cdp [30m+14ms[0m
+]]>
+</system-err>
+</testcase>
+<testcase name="Example.com E2E Tests with Selenium Grid › should have a &quot;More information...&quot; link" classname="example.spec.js" time="1.276">
+<system-err>
+<![CDATA[  [30;1mpw:browser [0m<selenium> connecting to http://localhost:4444/ [30m+0ms[0m
+  [30;1mpw:browser [0m<selenium> connected to sessionId=c6eadb08c56a798e9a27b4e777498e9b [30m+8s[0m
+  [30;1mpw:browser [0m<selenium> using selenium v4 [30m+0ms[0m
+  [30;1mpw:browser [0m<selenium> retrieved endpoint ws://localhost:4444/session/c6eadb08c56a798e9a27b4e777498e9b/se/cdp for sessionId=c6eadb08c56a798e9a27b4e777498e9b [30m+0ms[0m
+  [30;1mpw:browser [0m<ws connecting> ws://localhost:4444/session/c6eadb08c56a798e9a27b4e777498e9b/se/cdp [30m+26ms[0m
+  [30;1mpw:browser [0m<ws connected> ws://localhost:4444/session/c6eadb08c56a798e9a27b4e777498e9b/se/cdp [30m+13ms[0m
+]]>
+</system-err>
+</testcase>
+<testcase name="Example.com E2E Tests with Selenium Grid › should verify page URL" classname="example.spec.js" time="1.239">
+<system-err>
+<![CDATA[  [30;1mpw:browser [0m<selenium> connecting to http://localhost:4444/ [30m+0ms[0m
+  [30;1mpw:browser [0m<selenium> connected to sessionId=88d6ae82d2e8a6ec8377cca67da2f89f [30m+13s[0m
+  [30;1mpw:browser [0m<selenium> using selenium v4 [30m+1ms[0m
+  [30;1mpw:browser [0m<selenium> retrieved endpoint ws://localhost:4444/session/88d6ae82d2e8a6ec8377cca67da2f89f/se/cdp for sessionId=88d6ae82d2e8a6ec8377cca67da2f89f [30m+0ms[0m
+  [30;1mpw:browser [0m<ws connecting> ws://localhost:4444/session/88d6ae82d2e8a6ec8377cca67da2f89f/se/cdp [30m+22ms[0m
+  [30;1mpw:browser [0m<ws connected> ws://localhost:4444/session/88d6ae82d2e8a6ec8377cca67da2f89f/se/cdp [30m+12ms[0m
+]]>
+</system-err>
+</testcase>
+<testcase name="Example.com E2E Tests with Selenium Grid › should verify page contains expected meta information" classname="example.spec.js" time="1.335">
+<system-err>
+<![CDATA[  [30;1mpw:browser [0m<selenium> connecting to http://localhost:4444/ [30m+0ms[0m
+  [30;1mpw:browser [0m<selenium> connected to sessionId=d0a5e7f7bf6f37d9ca23086081c30c27 [30m+9s[0m
+  [30;1mpw:browser [0m<selenium> using selenium v4 [30m+0ms[0m
+  [30;1mpw:browser [0m<selenium> retrieved endpoint ws://localhost:4444/session/d0a5e7f7bf6f37d9ca23086081c30c27/se/cdp for sessionId=d0a5e7f7bf6f37d9ca23086081c30c27 [30m+0ms[0m
+  [30;1mpw:browser [0m<ws connecting> ws://localhost:4444/session/d0a5e7f7bf6f37d9ca23086081c30c27/se/cdp [30m+18ms[0m
+  [30;1mpw:browser [0m<ws connected> ws://localhost:4444/session/d0a5e7f7bf6f37d9ca23086081c30c27/se/cdp [30m+12ms[0m
+]]>
+</system-err>
+</testcase>
+<testcase name="Example.com E2E Tests with Selenium Grid › should verify browser and page information" classname="example.spec.js" time="1.287">
+<system-out>
+<![CDATA[Testing with browser: chromium
+User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/137.0.0.0 Safari/537.36
+]]>
+</system-out>
+</testcase>
+<testcase name="Example.com E2E Tests with Selenium Grid › should be responsive and accessible" classname="example.spec.js" time="1.252">
+</testcase>
+<testcase name="Example.com E2E Tests with Selenium Grid › should handle page interactions" classname="example.spec.js" time="1.523">
+</testcase>
+<testcase name="Example.com E2E Tests with Selenium Grid › should verify page structure and elements" classname="example.spec.js" time="1.435">
+</testcase>
+</testsuite>
+</testsuites>

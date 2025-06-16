@@ -2,7 +2,8 @@
   "name": "selenium-hub-e2e-tests",
   "version": "1.0.0",
   "description": "E2E tests using WebDriver.io with Selenium Hub",
-  "main": "index.js",  "scripts": {
+  "main": "index.js",
+  "scripts": {
     "test": "wdio run wdio.conf.js",
     "test:hub": "wdio run wdio.hub.conf.js",
     "test:chrome": "wdio run wdio.hub.conf.js --spec=./test/specs/example.spec.js --capabilities=chrome",
@@ -28,5 +29,6 @@
     "@wdio/mocha-framework": "^9.15.0",
     "webdriverio": "^9.15.0",
     "selenium-standalone": "^10.0.0"
-  }
+  },
+  "packageManager": "pnpm@8.14.0+sha1.bb42032ff80dba5f9245bc1b03470d2fa0b7fb2f"
 }
